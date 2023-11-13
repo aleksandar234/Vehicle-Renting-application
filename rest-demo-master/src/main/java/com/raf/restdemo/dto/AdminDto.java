@@ -1,6 +1,6 @@
 package com.raf.restdemo.dto;
 
-
+// Razlog zasto uopste imamo i koristimo DTO (Data transfer object) je taj da ne bi slali nepotrebne ili osetljive podatke ako se to ne zahteva
 public class AdminDto {
 
     private String username;
